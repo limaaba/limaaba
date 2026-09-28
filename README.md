@@ -197,6 +197,6 @@ Parlons-en : je réponds généralement sous 24 heures.
 <br />
 <br />
 
-<sub>Conçu avec soin depuis le Burkina Faso 🇧🇫</sub>
+<sub>Burkina Faso 🇧🇫</sub>
 
 </div>
