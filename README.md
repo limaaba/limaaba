@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-<img src="assets/header.svg" width="100%" alt="YONLI Limaaba — Développeur Full-Stack, Laravel et React" />
+<img src="assets/header.svg" width="100%" alt="YONLI Limaaba — Développeur Full-Stack" />
 
 <div align="center">
 
