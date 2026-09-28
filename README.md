@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
 <!-- Bannière animée (dégradé, s'affiche bien en mode clair et sombre) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=YONLI%20Limaaba&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20Full-Stack%20%E2%80%A2%20Laravel%20%26%20React&descAlignY=58&descSize=18" width="100%" alt="YONLI Limaaba — Développeur Full-Stack" />
+<img src="assets/header.svg" width="100%" alt="YONLI Limaaba — Développeur Full-Stack" />
 
 <div align="center">
 
@@ -156,4 +156,4 @@ $limaaba = [
 
 Vous avez un projet web, une API à construire ou une application à moderniser ? Écrivez-moi à **[limaabayonli170@gmail.com](mailto:limaabayonli170@gmail.com)**.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
