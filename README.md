@@ -1,31 +1,40 @@
 <a id="readme-top"></a>
-
-<img src="assets/header.svg" width="100%" alt="YONLI Limaaba — Développeur Full-Stack" />
-
+<!-- Bannière animée (dégradé, s'affiche bien en mode clair et sombre) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=YONLI%20Limaaba&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20Full-Stack%20%E2%80%A2%20Laravel%20%26%20React&descAlignY=58&descSize=18" width="100%" alt="YONLI Limaaba — Développeur Full-Stack" />
 <div align="center">
-
-<a href="mailto:limaabayonli170@gmail.com"><img src="https://img.shields.io/badge/Email-limaabayonli170%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.facebook.com/profile.php?id=100086574069663"><img src="https://img.shields.io/badge/Facebook-YONLI%20Limaaba-0f172a?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<img src="https://img.shields.io/badge/Localisation-Burkina%20Faso-0f172a?style=flat-square&logo=googlemaps&logoColor=white" alt="Burkina Faso" />
+<a href="https://github.com/limaaba">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2C9CDB&center=true&vCenter=true&width=600&lines=Je+construis+des+applications+web+de+bout+en+bout;API+Laravel+%E2%80%A2+Interfaces+React+%E2%80%A2+MySQL;Bas%C3%A9+au+Burkina+Faso+%F0%9F%87%A7%F0%9F%87%AB" alt="Texte animé" />
+</a>
+<br/>
+<a href="mailto:limaabayonli170@gmail.com"><img src="https://img.shields.io/badge/Email-me%20contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.facebook.com/profile.php?id=100086574069663"><img src="https://img.shields.io/badge/Facebook-suivre-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <!-- TODO: ajouter LinkedIn / portfolio si disponibles, ex. :
-<a href="https://www.linkedin.com/in/TODO"><img src="https://img.shields.io/badge/LinkedIn-YONLI%20Limaaba-0f172a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/TODO"><img src="https://img.shields.io/badge/LinkedIn-connecter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 -->
-
+<img src="https://komarev.com/ghpvc/?username=limaaba&style=for-the-badge&color=2c5364&label=VISITES" alt="Compteur de visites" />
 </div>
-
+---
 ## 👋 À propos
-
-Développeur full-stack basé au Burkina Faso, je conçois des applications web complètes : des API **Laravel** robustes côté serveur et des interfaces **React** rapides côté client, adossées à **MySQL**.
-
+```php
+<?php
+$limaaba = [
+    'nom'          => 'YONLI Limaaba',
+    'localisation' => 'Burkina Faso 🇧🇫',
+    'rôle'         => 'Développeur Full-Stack',
+    'backend'      => ['PHP', 'Laravel', 'API REST', 'Sanctum / Passport'],
+    'frontend'     => ['React', 'Vite', 'Tailwind CSS', 'Blade', 'Bootstrap'],
+    'données'      => ['MySQL', 'SQLite'],
+    'en_ce_moment' => 'API Laravel 13 + frontend React 19',
+    'objectif'     => 'Des applications utiles, rapides et bien construites',
+];
+```
+- 🔭 Je travaille sur des **applications web complètes** : une API Laravel côté serveur, une interface React côté client.
 - 🌱 J'approfondis **Laravel 13**, **React 19** et les bonnes pratiques de test (PHPUnit).
 - 🤝 Je suis ouvert aux **collaborations** sur des projets web, en particulier pour l'Afrique de l'Ouest.
 - 💬 Parlez-moi de **Laravel**, de **React** ou d'architecture d'API.
 <!-- TODO: ajouter un fait amusant ou ta disponibilité (freelance, emploi…) -->
-
 <p align="right"><a href="#readme-top">⬆️ Retour en haut</a></p>
-
 ## 🛠️ Stack technique
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,react,vite,tailwind,bootstrap,html,css,mysql,sqlite&perline=11" alt="Stack principale" />
 </p>
@@ -33,7 +42,6 @@ Développeur full-stack basé au Burkina Faso, je conçois des applications web 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,npm&perline=5" alt="Outils" />
 </p>
-
 <details>
 <summary><b>Autres langages pratiqués</b></summary>
 <br/>
@@ -41,11 +49,8 @@ Développeur full-stack basé au Burkina Faso, je conçois des applications web 
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java" alt="Autres langages" />
 </p>
 </details>
-
 <p align="right"><a href="#readme-top">⬆️ Retour en haut</a></p>
-
 ## 🚀 Projets à la une
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -92,21 +97,16 @@ Développeur full-stack basé au Burkina Faso, je conçois des applications web 
     </td>
   </tr>
 </table>
-
 <p align="right"><a href="#readme-top">⬆️ Retour en haut</a></p>
-
 ## 📊 Statistiques GitHub
 
 > [!NOTE]
 > Ces cartes sont générées automatiquement à partir de mon activité publique. Les dépôts privés ne sont pas comptés.
-
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=limaaba&theme=github_dark" />
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=limaaba&theme=github" alt="Profil et contributions" />
 </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=limaaba&theme=github_dark" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=limaaba&theme=github" alt="Statistiques GitHub" />
@@ -119,17 +119,13 @@ Développeur full-stack basé au Burkina Faso, je conçois des applications web 
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=limaaba&theme=github_dark" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=limaaba&theme=github" alt="Langages les plus commités" />
 </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=limaaba&locale=fr&theme=github-dark-blue&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=limaaba&locale=fr&theme=default&hide_border=true" alt="Série de contributions" />
 </picture>
-
 </div>
 
 <p align="right"><a href="#readme-top">⬆️ Retour en haut</a></p>
-
 ## 🤝 Travaillons ensemble
-
 Vous avez un projet web, une API à construire ou une application à moderniser ? Écrivez-moi à **[limaabayonli170@gmail.com](mailto:limaabayonli170@gmail.com)**.
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="" />
