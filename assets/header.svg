@@ -1,49 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="t d">
+  <title id="t">YONLI Limaaba</title>
+  <desc id="d">Développeur Full-Stack, Laravel et React, Burkina Faso</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#131f3a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.35" r="0.55">
+      <stop offset="0" stop-color="#3b82f6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#6366f1"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity="0.07"/>
+    </pattern>
+    <clipPath id="card"><rect width="1280" height="320" rx="18"/></clipPath>
+  </defs>
 
-      <svg
-        width="854"
-        height="200"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        style="z-index:1;position:relative"
-        viewBox="0 0 854 200"
-      >
-        <style>
-      .text {   font-size: 52px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 18px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
-      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
-    </style>
-        <defs>
-              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#0f2027"/><stop offset="50%" stop-color="#203a43"/><stop offset="100%" stop-color="#2c5364"/>
-              </linearGradient>
-            </defs>
-        
-      <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-              attributeName="d"
-              dur="20s"
-              repeatCount="indefinite"
-              keyTimes="0;0.333;0.667;1"
-              calcmod="spline"
-              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-              begin="0s"
-              values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
-          </animate>
-        </path>
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-            attributeName="d"
-            dur="20s"
-            repeatCount="indefinite"
-            keyTimes="0;0.333;0.667;1"
-            calcmod="spline"
-            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-            begin="-10s"
-            values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z">
-          </animate>
-        </path>
-      </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="38%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >YONLI Limaaba</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="58%" class="desc" style="fill:#ffffff;">Développeur Full-Stack • Laravel & React</text>
-      </svg>
-    
+  <g clip-path="url(#card)">
+    <rect width="1280" height="320" fill="url(#bg)"/>
+    <rect width="1280" height="320" fill="url(#dots)"/>
+    <rect width="1280" height="320" fill="url(#glow)"/>
+    <rect width="1280" height="4" fill="url(#accent)"/>
+  </g>
+
+  <!-- Texte principal -->
+  <g font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+    <rect x="72" y="70" width="28" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="112" y="77" font-size="15" font-weight="600" letter-spacing="3" fill="#22d3ee">DÉVELOPPEUR FULL-STACK</text>
+    <text x="70" y="146" font-size="64" font-weight="700" fill="#f8fafc">YONLI Limaaba</text>
+    <text x="72" y="190" font-size="21" fill="#94a3b8">API Laravel, interfaces React, de la base de données à l’écran.</text>
+
+    <g font-size="14" font-weight="600">
+      <rect x="72"  y="222" width="88"  height="32" rx="16" fill="#ff2d20" fill-opacity="0.12" stroke="#ff2d20" stroke-opacity="0.5"/>
+      <text x="116" y="243" text-anchor="middle" fill="#ff8a80">Laravel</text>
+      <rect x="170" y="222" width="80"  height="32" rx="16" fill="#61dafb" fill-opacity="0.10" stroke="#61dafb" stroke-opacity="0.5"/>
+      <text x="210" y="243" text-anchor="middle" fill="#8be6fd">React</text>
+      <rect x="260" y="222" width="64"  height="32" rx="16" fill="#8892bf" fill-opacity="0.14" stroke="#8892bf" stroke-opacity="0.6"/>
+      <text x="292" y="243" text-anchor="middle" fill="#b8c0e6">PHP</text>
+      <rect x="334" y="222" width="80"  height="32" rx="16" fill="#4479a1" fill-opacity="0.18" stroke="#4479a1" stroke-opacity="0.7"/>
+      <text x="374" y="243" text-anchor="middle" fill="#9cc3e4">MySQL</text>
+      <rect x="424" y="222" width="104" height="32" rx="16" fill="#38bdf8" fill-opacity="0.10" stroke="#38bdf8" stroke-opacity="0.5"/>
+      <text x="476" y="243" text-anchor="middle" fill="#9ddcfb">Tailwind</text>
+    </g>
+  </g>
+
+  <!-- Fenêtre de code -->
+  <g transform="translate(800 62)">
+    <rect width="412" height="196" rx="12" fill="#0f172a" fill-opacity="0.85" stroke="#334155" stroke-opacity="0.8"/>
+    <rect width="412" height="36" rx="12" fill="#1e293b"/>
+    <rect y="24" width="412" height="12" fill="#1e293b"/>
+    <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+    <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+    <circle cx="62" cy="18" r="6" fill="#28c840"/>
+    <text x="206" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b">profil.js</text>
+
+    <g font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" font-size="15">
+      <text x="24" y="70"><tspan fill="#c792ea">const</tspan><tspan fill="#e2e8f0"> dev = {</tspan></text>
+      <text x="48" y="96"><tspan fill="#7dd3fc">nom</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#a5e075">'YONLI Limaaba'</tspan><tspan fill="#e2e8f0">,</tspan></text>
+      <text x="48" y="122"><tspan fill="#7dd3fc">stack</tspan><tspan fill="#e2e8f0">: [</tspan><tspan fill="#a5e075">'Laravel'</tspan><tspan fill="#e2e8f0">, </tspan><tspan fill="#a5e075">'React'</tspan><tspan fill="#e2e8f0">],</tspan></text>
+      <text x="48" y="148"><tspan fill="#7dd3fc">pays</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#a5e075">'Burkina Faso'</tspan><tspan fill="#e2e8f0">,</tspan></text>
+      <text x="24" y="174"><tspan fill="#e2e8f0">};</tspan><tspan fill="#22d3ee">▍</tspan></text>
+    </g>
+  </g>
+</svg>

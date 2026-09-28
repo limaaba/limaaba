@@ -1,45 +1,22 @@
 <a id="readme-top"></a>
 
-<!-- Bannière animée (dégradé, s'affiche bien en mode clair et sombre) -->
-<img src="assets/header.svg" width="100%" alt="YONLI Limaaba — Développeur Full-Stack" />
+<img src="assets/header.svg" width="100%" alt="YONLI Limaaba — Développeur Full-Stack, Laravel et React" />
 
 <div align="center">
 
-<a href="https://github.com/limaaba">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2C9CDB&center=true&vCenter=true&width=600&lines=Je+construis+des+applications+web+de+bout+en+bout;API+Laravel+%E2%80%A2+Interfaces+React+%E2%80%A2+MySQL;Bas%C3%A9+au+Burkina+Faso+%F0%9F%87%A7%F0%9F%87%AB" alt="Texte animé" />
-</a>
-
-<br/>
-
-<a href="mailto:limaabayonli170@gmail.com"><img src="https://img.shields.io/badge/Email-me%20contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.facebook.com/profile.php?id=100086574069663"><img src="https://img.shields.io/badge/Facebook-suivre-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="mailto:limaabayonli170@gmail.com"><img src="https://img.shields.io/badge/Email-limaabayonli170%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.facebook.com/profile.php?id=100086574069663"><img src="https://img.shields.io/badge/Facebook-YONLI%20Limaaba-0f172a?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<img src="https://img.shields.io/badge/Localisation-Burkina%20Faso-0f172a?style=flat-square&logo=googlemaps&logoColor=white" alt="Burkina Faso" />
 <!-- TODO: ajouter LinkedIn / portfolio si disponibles, ex. :
-<a href="https://www.linkedin.com/in/TODO"><img src="https://img.shields.io/badge/LinkedIn-connecter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/TODO"><img src="https://img.shields.io/badge/LinkedIn-YONLI%20Limaaba-0f172a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 -->
-<img src="https://komarev.com/ghpvc/?username=limaaba&style=for-the-badge&color=2c5364&label=VISITES" alt="Compteur de visites" />
 
 </div>
 
----
-
 ## 👋 À propos
 
-```php
-<?php
+Développeur full-stack basé au Burkina Faso, je conçois des applications web complètes : des API **Laravel** robustes côté serveur et des interfaces **React** rapides côté client, adossées à **MySQL**.
 
-$limaaba = [
-    'nom'          => 'YONLI Limaaba',
-    'localisation' => 'Burkina Faso 🇧🇫',
-    'rôle'         => 'Développeur Full-Stack',
-    'backend'      => ['PHP', 'Laravel', 'API REST', 'Sanctum / Passport'],
-    'frontend'     => ['React', 'Vite', 'Tailwind CSS', 'Blade', 'Bootstrap'],
-    'données'      => ['MySQL', 'SQLite'],
-    'en_ce_moment' => 'API Laravel 13 + frontend React 19',
-    'objectif'     => 'Des applications utiles, rapides et bien construites',
-];
-```
-
-- 🔭 Je travaille sur des **applications web complètes** : une API Laravel côté serveur, une interface React côté client.
 - 🌱 J'approfondis **Laravel 13**, **React 19** et les bonnes pratiques de test (PHPUnit).
 - 🤝 Je suis ouvert aux **collaborations** sur des projets web, en particulier pour l'Afrique de l'Ouest.
 - 💬 Parlez-moi de **Laravel**, de **React** ou d'architecture d'API.
@@ -156,4 +133,3 @@ $limaaba = [
 
 Vous avez un projet web, une API à construire ou une application à moderniser ? Écrivez-moi à **[limaabayonli170@gmail.com](mailto:limaabayonli170@gmail.com)**.
 
-<img src="assets/footer.svg" width="100%" alt="" />
