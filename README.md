@@ -17,10 +17,7 @@
 <br />
 <br />
 
-**Je conçois et développe des applications web complètes, de l'API Laravel à l'interface React.**
-<br />
-Du modèle de données au déploiement, je livre des produits rapides, sécurisés et faciles à maintenir.
-
+<img src="./assets/tagline.svg" width="100%" alt="Je conçois et développe des applications web complètes, de l'API Laravel à l'interface React." />
 </div>
 
 <br />
